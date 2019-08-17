@@ -1,10 +1,5 @@
 # Project: Predictive Analytics Capstone
 
-```
-Complete each section. When you are ready, save your file as a PDF document and submit it
-here: https://coco.udacity.com/nanodegrees/nd008/locale/en-
-us/versions/1.0.0/parts/7271/project
-```
 # Task 1: Determine Store Formats for Existing Stores
 
 1. What is the optimal number of store formats? How did you arrive at that number?
@@ -36,8 +31,7 @@ Hence each one of the existing stores was associated with the appropriate cluste
 4. Please provide a Tableau visualization (saved as a Tableau Public file) that shows the
     location of the stores, uses color to show cluster, and size to show total sales.
     Here is the link:
-    https://public.tableau.com/profile/mohammed.assiri5000#!/vizhome/Task1_79/Task1?pu
-    blish=yes
+    https://public.tableau.com/profile/mohammed.assiri5000#!/vizhome/Task1_79/Task1?publish=yes
 
 
 # Task 2: Formats for New Stores
@@ -153,8 +147,6 @@ ACF and PACF of ARIMA after differencing
 
 Here is the link:
 
-https://public.tableau.com/profile/mohammed.assiri3979#!/vizhome/Task3v3_0/Task
-
-3?publish=yes
+https://public.tableau.com/profile/mohammed.assiri3979#!/vizhome/Task3v3_0/Task3?publish=yes
 
 
